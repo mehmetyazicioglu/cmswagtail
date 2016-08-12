@@ -1,34 +1,3 @@
-wagtail-openshift-quickstart
-============================
-
-.. image:: https://img.shields.io/badge/version-v1.3a0-blue.svg
-
-.. image:: https://img.shields.io/badge/license-ISC%20License%20(ISCL)-blue.svg
-    :target: http://en.wikipedia.org/wiki/ISC_license
-
-`Wagtail CMS`_ quickstart for deployment on OpenShift Online
-
-.. _Wagtail CMS: http://wagtail.io
-
-Prerequisites
--------------
-* You have an `OpenShift account`_
-* You have installed the `rhc` command line tools for `remote OpenShift administration`_
-
-.. _OpenShift account: https://www.openshift.com
-.. _remote OpenShift administration: https://developers.openshift.com/en/getting-started-client-tools.html
-
-Recommendations
----------------
-* You use `virtualenv`_ for isolated local python development
-* You are familiar with `Django`_ basics, at least visited their great `online tutorial`_
-
-.. _virtualenv: http://virtualenv.readthedocs.org/en/latest/virtualenv.html
-.. _Django: https://www.djangoproject.com
-.. _online tutorial: https://docs.djangoproject.com/en/dev/intro/tutorial01
-
-Getting started
----------------
 
 Initialize OpenShift application and local codebase
 ***************************************************
@@ -94,8 +63,3 @@ Initialize local development environment
 
   ``http://localhost:8000/django`` (Django administration)
 
-**Let's code!** You're ready to develop your Wagtail powered webpages.
-
-.. _Getting started: http://docs.wagtail.io/en/stable/getting_started/index.html
-
-**That's it! Easy, right?** You've set up an OpenShift hosted Wagtail CMS and your local development environment in 10 Minutes! Awesome!
