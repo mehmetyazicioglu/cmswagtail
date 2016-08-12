@@ -63,3 +63,7 @@ Initialize local development environment
 
   ``http://localhost:8000/django`` (Django administration)
 
+Site is under construction now !!! 
+
+mysite-mehmetworkspace.rhcloud.com
+
