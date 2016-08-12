@@ -65,5 +65,5 @@ Initialize local development environment
 
 Site is under construction now !!! 
 
-mysite-mehmetworkspace.rhcloud.com
+http://mysite-mehmetworkspace.rhcloud.com/
 
